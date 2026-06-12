@@ -1,0 +1,18 @@
+{
+  "id": "memory-curve-lite",
+  "name": "记忆曲线·简",
+  "version": "1.0.0",
+  "description": "纯净版遗忘曲线记忆管理。读人设、搜索/排序记忆、按权重衰减，无冗余装饰。",
+  "author": "your-name",
+  "entry": "https://raw.githubusercontent.com/your-name/memory-curve-lite/main/plugin.js",
+  "hash": "",
+  "permissions": [
+    "persona:read",
+    "character:read",
+    "memory:read",
+    "memory:write",
+    "ai:chat",
+    "storage",
+    "ui"
+  ]
+}
